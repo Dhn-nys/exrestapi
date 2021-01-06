@@ -70,7 +70,7 @@ switch ($fiture) {
 				break;
 				
 	 # Untuk mengubah / edit data "admin"
-	 # Contoh Link [URL]?fiture=editadm&nm_adm=[Nama Admin]&pwd_adm=[Password Admin]&tgl[Tanggal YYYY-MM-DD]&id=[id Admin yang akan diubah]
+	 # Contoh Link [URL]?fiture=editadm&nm_adm=[Nama Admin]&pwd_adm=[Password Admin]&tgl=[Tanggal YYYY-MM-DD]&id=[id Admin yang akan diubah]
         
     case "editadm":
         @$nm_adm = $_GET['nm_adm'];
