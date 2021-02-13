@@ -28,7 +28,7 @@
 
 <i>! Warning ! Status 1 artinya aktif dan 0 artinya tidak aktif</i>
 
-<i>Untuk php 7.xx akan saya buatkan jika ada waktu luang </1>
+<i>Untuk php 7.xx akan saya buatkan jika ada waktu luang</i>
 
 Thanks Contributor 
 - [M Iqbal](https://github.com/Nomotoki)
